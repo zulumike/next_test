@@ -4,13 +4,13 @@ export default function testing() {
         <div>
             <input
                 type="text"
-                id="idfirst"
+                id="idfirstname"
                 name="firstname"
             />
             <input
                 type="text"
-                id="idlastname4"
-                name="lastname4"
+                id="idlastname"
+                name="lastname"
             />
         </div>
     )
